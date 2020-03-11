@@ -1,0 +1,18 @@
+body {
+background: salmon;
+}
+header {
+color: rgb(101, 101, 101);
+font-family: Arial, Helvetica, sans-serif;
+background: tomato;}
+
+
+header h1 {
+    background: tomato;
+    width: 100%
+}
+
+h2,h4,p{
+    color: seashell;
+    font-family: Arial, Helvetica, sans-serif;
+}
